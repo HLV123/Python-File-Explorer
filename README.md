@@ -1,4 +1,16 @@
+<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/e1644f14-fb82-43ba-b6e2-a1e53e41908c" />
 
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/1fbe6f52-9aeb-4fad-8ff4-c48b44737dde" />
+
+<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/47689348-f833-42ff-8ff1-e4cbaea50a07" />
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/275d5703-6841-45eb-8e4c-b230e9dc2961" />
+
+<img width="1913" height="577" alt="Image" src="https://github.com/user-attachments/assets/0ae08dff-73fa-4476-9a25-70b2ea70d72a" />
+
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/27c7a239-4c1d-4cd2-a06f-af8b0361a448" />
+
+<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/be8a1631-ea0a-4f50-a8e0-e58acb130307" />
 
 
 # Python File Explorer
